@@ -1,0 +1,13 @@
+﻿  Array.cpp
+  BitString.cpp
+C:\Users\LENOVO\source\repos\lab 3.4\BitString.cpp(28,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\lab 3.4\BitString.cpp(111,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\lab 3.4\BitString.cpp(129,6): warning C4101: 'i': unreferenced local variable
+  Decimal.cpp
+  Source.cpp
+C:\Users\LENOVO\source\repos\lab 3.4\Source.cpp(52,39): warning C4305: 'argument': truncation from 'int' to 'char'
+C:\Users\LENOVO\source\repos\lab 3.4\Source.cpp(52,34): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+C:\Users\LENOVO\source\repos\lab 3.4\Decimal.cpp(83): warning C4715: 'Decimal::rangeСheck': not all control paths return a value
+C:\Users\LENOVO\source\repos\lab 3.4\BitString.cpp(124): warning C4715: 'BitString::rangeСheck': not all control paths return a value
+  lab 3.4.vcxproj -> C:\Users\LENOVO\source\repos\lab 3.4\x64\Debug\lab 3.4.exe
